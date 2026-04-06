@@ -26,8 +26,6 @@ class Search():
         self.p2 = .5
         self.p3 = .3
 
-
-
         self.sep1 = 0
         self.sep2 = 0
         self.sep3 = 0
